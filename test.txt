@@ -1,3 +1,4 @@
-Hello Git, ye mera pehla file hai
-Ye mera doosra change hai
+Hello Git, ye mera pehla file h
+ye mera doosra change hai
 Ye line main branch se hai
+Ye line conflict-branch se hai
