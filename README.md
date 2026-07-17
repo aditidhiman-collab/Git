@@ -7,6 +7,6 @@ Ye mera pehla Git aur GitHub practice repository hai.
 - Branches banana aur merge karna
 - Merge conflicts resolve karna
 - .gitignore ka use
-
+- Commit message hygiene
 ## Banaya
 Aditi ne
